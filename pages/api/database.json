@@ -1,0 +1,941 @@
+{
+    "hats": [
+        {
+        "id": 0,
+        "color": "Admiral pink.png",
+        "url": "/resources/All Cat Hat variants finished/Admiral pink.png"
+      },
+      {
+        "id": 1,
+        "color": "Admiral.png",
+        "url": "/resources/All Cat Hat variants finished/Admiral.png"
+      },
+      {
+        "id": 2,
+        "color": "Afro black.png",
+        "url": "/resources/All Cat Hat variants finished/Afro black.png"
+      },
+      {
+        "id": 3,
+        "color": "Afro brown.png",
+        "url": "/resources/All Cat Hat variants finished/Afro brown.png"
+      },
+      {
+        "id": 4,
+        "color": "Afro rainbow unicorn.png",
+        "url": "/resources/All Cat Hat variants finished/Afro rainbow unicorn.png"
+      },
+      {
+        "id": 5,
+        "color": "Antlers.png",
+        "url": "/resources/All Cat Hat variants finished/Antlers.png"
+      },
+      {
+        "id": 6,
+        "color": "Apple.png",
+        "url": "/resources/All Cat Hat variants finished/Apple.png"
+      },
+      {
+        "id": 7,
+        "color": "Arrowhead.png",
+        "url": "/resources/All Cat Hat variants finished/Arrowhead.png"
+      },
+      {
+        "id": 8,
+        "color": "Astro Cheeks.png",
+        "url": "/resources/All Cat Hat variants finished/Astro Cheeks.png"
+      },
+      {
+        "id": 9,
+        "color": "Astro fishbowl.png",
+        "url": "/resources/All Cat Hat variants finished/Astro fishbowl.png"
+      },
+      {
+        "id": 10,
+        "color": "Astro.png",
+        "url": "/resources/All Cat Hat variants finished/Astro.png"
+      },
+      {
+        "id": 11,
+        "color": "Beanie black.png",
+        "url": "/resources/All Cat Hat variants finished/Beanie black.png"
+      },
+      {
+        "id": 12,
+        "color": "Beanie blue.png",
+        "url": "/resources/All Cat Hat variants finished/Beanie blue.png"
+      },
+      {
+        "id": 13,
+        "color": "Beanie orange.png",
+        "url": "/resources/All Cat Hat variants finished/Beanie orange.png"
+      },
+      {
+        "id": 14,
+        "color": "Beanie red.png",
+        "url": "/resources/All Cat Hat variants finished/Beanie red.png"
+      },
+      {
+        "id": 15,
+        "color": "Beret black.png",
+        "url": "/resources/All Cat Hat variants finished/Beret black.png"
+      },
+      {
+        "id": 16,
+        "color": "Beret green.png",
+        "url": "/resources/All Cat Hat variants finished/Beret green.png"
+      },
+      {
+        "id": 17,
+        "color": "Beret pink.png",
+        "url": "/resources/All Cat Hat variants finished/Beret pink.png"
+      },
+      {
+        "id": 18,
+        "color": "Beret red.png",
+        "url": "/resources/All Cat Hat variants finished/Beret red.png"
+      },
+      {
+        "id": 19,
+        "color": "Bow.png",
+        "url": "/resources/All Cat Hat variants finished/Bow.png"
+      },
+      {
+        "id": 20,
+        "color": "Bucket hat blue.png",
+        "url": "/resources/All Cat Hat variants finished/Bucket hat blue.png"
+      },
+      {
+        "id": 21,
+        "color": "Bucket hat green.png",
+        "url": "/resources/All Cat Hat variants finished/Bucket hat green.png"
+      },
+      {
+        "id": 22,
+        "color": "Bucket hat tan.png",
+        "url": "/resources/All Cat Hat variants finished/Bucket hat tan.png"
+      },
+      {
+        "id": 23,
+        "color": "Bucket hat white.png",
+        "url": "/resources/All Cat Hat variants finished/Bucket hat white.png"
+      },
+      {
+        "id": 24,
+        "color": "Candle.png",
+        "url": "/resources/All Cat Hat variants finished/Candle.png"
+      },
+      {
+        "id": 25,
+        "color": "Costume dragon.png",
+        "url": "/resources/All Cat Hat variants finished/Costume dragon.png"
+      },
+      {
+        "id": 26,
+        "color": "Costume frog.png",
+        "url": "/resources/All Cat Hat variants finished/Costume frog.png"
+      },
+      {
+        "id": 27,
+        "color": "Costume Gorilla.png",
+        "url": "/resources/All Cat Hat variants finished/Costume Gorilla.png"
+      },
+      {
+        "id": 28,
+        "color": "Cowboy black.png",
+        "url": "/resources/All Cat Hat variants finished/Cowboy black.png"
+      },
+      {
+        "id": 29,
+        "color": "Cowboy brown.png",
+        "url": "/resources/All Cat Hat variants finished/Cowboy brown.png"
+      },
+      {
+        "id": 30,
+        "color": "Crown black.png",
+        "url": "/resources/All Cat Hat variants finished/Crown black.png"
+      },
+      {
+        "id": 31,
+        "color": "Crown fire.png",
+        "url": "/resources/All Cat Hat variants finished/Crown fire.png"
+      },
+      {
+        "id": 32,
+        "color": "Crown gold.png",
+        "url": "/resources/All Cat Hat variants finished/Crown gold.png"
+      },
+      {
+        "id": 33,
+        "color": "Cupcake.png",
+        "url": "/resources/All Cat Hat variants finished/Cupcake.png"
+      },
+      {
+        "id": 34,
+        "color": "Deepsea bronze.png",
+        "url": "/resources/All Cat Hat variants finished/Deepsea bronze.png"
+      },
+      {
+        "id": 35,
+        "color": "Deepsea orange.png",
+        "url": "/resources/All Cat Hat variants finished/Deepsea orange.png"
+      },
+      {
+        "id": 36,
+        "color": "Dutch.png",
+        "url": "/resources/All Cat Hat variants finished/Dutch.png"
+      },
+      {
+        "id": 37,
+        "color": "Flower blue.png",
+        "url": "/resources/All Cat Hat variants finished/Flower blue.png"
+      },
+      {
+        "id": 38,
+        "color": "Flower pink.png",
+        "url": "/resources/All Cat Hat variants finished/Flower pink.png"
+      },
+      {
+        "id": 39,
+        "color": "Flower red.png",
+        "url": "/resources/All Cat Hat variants finished/Flower red.png"
+      },
+      {
+        "id": 40,
+        "color": "Goggles seaweed.png",
+        "url": "/resources/All Cat Hat variants finished/Goggles seaweed.png"
+      },
+      {
+        "id": 41,
+        "color": "Halo fire.png",
+        "url": "/resources/All Cat Hat variants finished/Halo fire.png"
+      },
+      {
+        "id": 42,
+        "color": "Halo.png",
+        "url": "/resources/All Cat Hat variants finished/Halo.png"
+      },
+      {
+        "id": 43,
+        "color": "Hat black.png",
+        "url": "/resources/All Cat Hat variants finished/Hat black.png"
+      },
+      {
+        "id": 44,
+        "color": "Hat skull.png",
+        "url": "/resources/All Cat Hat variants finished/Hat skull.png"
+      },
+      {
+        "id": 45,
+        "color": "Hat visor blue.png",
+        "url": "/resources/All Cat Hat variants finished/Hat visor blue.png"
+      },
+      {
+        "id": 46,
+        "color": "Hat visor yellow.png",
+        "url": "/resources/All Cat Hat variants finished/Hat visor yellow.png"
+      },
+      {
+        "id": 47,
+        "color": "Hat white.png",
+        "url": "/resources/All Cat Hat variants finished/Hat white.png"
+      },
+      {
+        "id": 48,
+        "color": "Headband blue.png",
+        "url": "/resources/All Cat Hat variants finished/Headband blue.png"
+      },
+      {
+        "id": 49,
+        "color": "Headband red.png",
+        "url": "/resources/All Cat Hat variants finished/Headband red.png"
+      },
+      {
+        "id": 50,
+        "color": "Helm army.png",
+        "url": "/resources/All Cat Hat variants finished/Helm army.png"
+      },
+      {
+        "id": 51,
+        "color": "Helm biker.png",
+        "url": "/resources/All Cat Hat variants finished/Helm biker.png"
+      },
+      {
+        "id": 52,
+        "color": "Helm Bronze.png",
+        "url": "/resources/All Cat Hat variants finished/Helm Bronze.png"
+      },
+      {
+        "id": 53,
+        "color": "Helm Silver.png",
+        "url": "/resources/All Cat Hat variants finished/Helm Silver.png"
+      },
+      {
+        "id": 54,
+        "color": "Horns.png",
+        "url": "/resources/All Cat Hat variants finished/Horns.png"
+      },
+      {
+        "id": 55,
+        "color": "Knight black .png",
+        "url": "/resources/All Cat Hat variants finished/Knight black .png"
+      },
+      {
+        "id": 56,
+        "color": "Knight blue.png",
+        "url": "/resources/All Cat Hat variants finished/Knight blue.png"
+      },
+      {
+        "id": 57,
+        "color": "Knight red.png",
+        "url": "/resources/All Cat Hat variants finished/Knight red.png"
+      },
+      {
+        "id": 58,
+        "color": "Mohawk green.png",
+        "url": "/resources/All Cat Hat variants finished/Mohawk green.png"
+      },
+      {
+        "id": 59,
+        "color": "Mohawk purple.png",
+        "url": "/resources/All Cat Hat variants finished/Mohawk purple.png"
+      },
+      {
+        "id": 60,
+        "color": "Mohawk red.png",
+        "url": "/resources/All Cat Hat variants finished/Mohawk red.png"
+      },
+      {
+        "id": 61,
+        "color": "Mullet blonde.png",
+        "url": "/resources/All Cat Hat variants finished/Mullet blonde.png"
+      },
+      {
+        "id": 62,
+        "color": "Mullet brown.png",
+        "url": "/resources/All Cat Hat variants finished/Mullet brown.png"
+      },
+      {
+        "id": 63,
+        "color": "Ninja black.png",
+        "url": "/resources/All Cat Hat variants finished/Ninja black.png"
+      },
+      {
+        "id": 64,
+        "color": "Ninja blue.png",
+        "url": "/resources/All Cat Hat variants finished/Ninja blue.png"
+      },
+      {
+        "id": 65,
+        "color": "Ninja red.png",
+        "url": "/resources/All Cat Hat variants finished/Ninja red.png"
+      },
+      {
+        "id": 66,
+        "color": "Nurse.png",
+        "url": "/resources/All Cat Hat variants finished/Nurse.png"
+      },
+      {
+        "id": 67,
+        "color": "Piercings.png",
+        "url": "/resources/All Cat Hat variants finished/Piercings.png"
+      },
+      {
+        "id": 68,
+        "color": "Pirate black.png",
+        "url": "/resources/All Cat Hat variants finished/Pirate black.png"
+      },
+      {
+        "id": 69,
+        "color": "Pirate red.png",
+        "url": "/resources/All Cat Hat variants finished/Pirate red.png"
+      },
+      {
+        "id": 70,
+        "color": "Prince.png",
+        "url": "/resources/All Cat Hat variants finished/Prince.png"
+      },
+      {
+        "id": 71,
+        "color": "Sunhat black.png",
+        "url": "/resources/All Cat Hat variants finished/Sunhat black.png"
+      },
+      {
+        "id": 72,
+        "color": "Sunhat tan.png",
+        "url": "/resources/All Cat Hat variants finished/Sunhat tan.png"
+      },
+      {
+        "id": 73,
+        "color": "Sunhat white.png",
+        "url": "/resources/All Cat Hat variants finished/Sunhat white.png"
+      },
+      {
+        "id": 74,
+        "color": "Sushi.png",
+        "url": "/resources/All Cat Hat variants finished/Sushi.png"
+      },
+      {
+        "id": 75,
+        "color": "Top hat .png",
+        "url": "/resources/All Cat Hat variants finished/Top hat .png"
+      },
+      {
+        "id": 76,
+        "color": "Tvhead grey.png",
+        "url": "/resources/All Cat Hat variants finished/Tvhead grey.png"
+      },
+      {
+        "id": 77,
+        "color": "Tvhead purple.png",
+        "url": "/resources/All Cat Hat variants finished/Tvhead purple.png"
+      },
+      {
+        "id": 78,
+        "color": "Tvhead white.png",
+        "url": "/resources/All Cat Hat variants finished/Tvhead white.png"
+      },
+      {
+        "id": 79,
+        "color": "Unicorn horn.png",
+        "url": "/resources/All Cat Hat variants finished/Unicorn horn.png"
+      },
+      {
+        "id": 80,
+        "color": "Visor green.png",
+        "url": "/resources/All Cat Hat variants finished/Visor green.png"
+      },
+      {
+        "id": 81,
+        "color": "Visor Purple.png",
+        "url": "/resources/All Cat Hat variants finished/Visor Purple.png"
+      },
+      {
+        "id": 82,
+        "color": "Wreath flowers.png",
+        "url": "/resources/All Cat Hat variants finished/Wreath flowers.png"
+      },
+      {
+        "id": 83,
+        "color": "Wreath.png",
+        "url": "/resources/All Cat Hat variants finished/Wreath.png"
+      }],
+    "shirts": [
+        {
+        "id": 0,
+        "color": "Astro black.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Astro black.png"
+      },
+      {
+        "id": 1,
+        "color": "Astro orange.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Astro orange.png"
+      },
+      {
+        "id": 2,
+        "color": "Astro.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Astro.png"
+      },
+      {
+        "id": 3,
+        "color": "Bandana Green.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Bandana Green.png"
+      },
+      {
+        "id": 4,
+        "color": "Bandana Purple.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Bandana Purple.png"
+      },
+      {
+        "id": 5,
+        "color": "Bandana Red.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Bandana Red.png"
+      },
+      {
+        "id": 6,
+        "color": "Baseball blue.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Baseball blue.png"
+      },
+      {
+        "id": 7,
+        "color": "Baseball red.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Baseball red.png"
+      },
+      {
+        "id": 8,
+        "color": "Buttondown black flannel.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Buttondown black flannel.png"
+      },
+      {
+        "id": 9,
+        "color": "Buttondown blue flannel.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Buttondown blue flannel.png"
+      },
+      {
+        "id": 10,
+        "color": "Buttondown green.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Buttondown green.png"
+      },
+      {
+        "id": 11,
+        "color": "Buttondown red flannel.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Buttondown red flannel.png"
+      },
+      {
+        "id": 12,
+        "color": "Buttondown tan.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Buttondown tan.png"
+      },
+      {
+        "id": 13,
+        "color": "Chain.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Chain.png"
+      },
+      {
+        "id": 14,
+        "color": "Combat black.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Combat black.png"
+      },
+      {
+        "id": 15,
+        "color": "Combat green.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Combat green.png"
+      },
+      {
+        "id": 16,
+        "color": "Costume dragon.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Costume dragon.png"
+      },
+      {
+        "id": 17,
+        "color": "Costume frog.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Costume frog.png"
+      },
+      {
+        "id": 18,
+        "color": "Costume gorilla.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Costume gorilla.png"
+      },
+      {
+        "id": 19,
+        "color": "Costume hotdog.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Costume hotdog.png"
+      },
+      {
+        "id": 20,
+        "color": "Cowboy black.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Cowboy black.png"
+      },
+      {
+        "id": 21,
+        "color": "Cowboy brown.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Cowboy brown.png"
+      },
+      {
+        "id": 22,
+        "color": "Deepsea bronze.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Deepsea bronze.png"
+      },
+      {
+        "id": 23,
+        "color": "Deepsea orange.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Deepsea orange.png"
+      },
+      {
+        "id": 24,
+        "color": "Epaulette black.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Epaulette black.png"
+      },
+      {
+        "id": 25,
+        "color": "Epaulette red.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Epaulette red.png"
+      },
+      {
+        "id": 26,
+        "color": "Epaulette white.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Epaulette white.png"
+      },
+      {
+        "id": 27,
+        "color": "Gown black.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Gown black.png"
+      },
+      {
+        "id": 28,
+        "color": "Gown Purple.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Gown Purple.png"
+      },
+      {
+        "id": 29,
+        "color": "Gown white.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Gown white.png"
+      },
+      {
+        "id": 30,
+        "color": "Hoodie Black.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Hoodie Black.png"
+      },
+      {
+        "id": 31,
+        "color": "Hoodie Purple.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Hoodie Purple.png"
+      },
+      {
+        "id": 32,
+        "color": "Hoodie red.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Hoodie red.png"
+      },
+      {
+        "id": 33,
+        "color": "Knight black.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Knight black.png"
+      },
+      {
+        "id": 34,
+        "color": "Knight leather.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Knight leather.png"
+      },
+      {
+        "id": 35,
+        "color": "Knight.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Knight.png"
+      },
+      {
+        "id": 36,
+        "color": "Labcoat.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Labcoat.png"
+      },
+      {
+        "id": 37,
+        "color": "Lederhosen.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Lederhosen.png"
+      },
+      {
+        "id": 38,
+        "color": "Monk.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Monk.png"
+      },
+      {
+        "id": 39,
+        "color": "Mononoke.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Mononoke.png"
+      },
+      {
+        "id": 40,
+        "color": "Ninja black.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Ninja black.png"
+      },
+      {
+        "id": 41,
+        "color": "Ninja Blue.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Ninja Blue.png"
+      },
+      {
+        "id": 42,
+        "color": "Ninja Red.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Ninja Red.png"
+      },
+      {
+        "id": 43,
+        "color": "Nurse.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Nurse.png"
+      },
+      {
+        "id": 44,
+        "color": "Overalls Blue.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Overalls Blue.png"
+      },
+      {
+        "id": 45,
+        "color": "Overalls flannel.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Overalls flannel.png"
+      },
+      {
+        "id": 46,
+        "color": "Overalls pink.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Overalls pink.png"
+      },
+      {
+        "id": 47,
+        "color": "Overalls Red.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Overalls Red.png"
+      },
+      {
+        "id": 48,
+        "color": "Overalls yellow.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Overalls yellow.png"
+      },
+      {
+        "id": 49,
+        "color": "Pirate black.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Pirate black.png"
+      },
+      {
+        "id": 50,
+        "color": "Pirate red.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Pirate red.png"
+      },
+      {
+        "id": 51,
+        "color": "Punk.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Punk.png"
+      },
+      {
+        "id": 52,
+        "color": "Robe Blue.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Robe Blue.png"
+      },
+      {
+        "id": 53,
+        "color": "Robe king.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Robe king.png"
+      },
+      {
+        "id": 54,
+        "color": "Robe Red.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Robe Red.png"
+      },
+      {
+        "id": 55,
+        "color": "Robe white.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Robe white.png"
+      },
+      {
+        "id": 56,
+        "color": "Shirt bowtie.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Shirt bowtie.png"
+      },
+      {
+        "id": 57,
+        "color": "Shirt White .png",
+        "url": "/resources/All Cat Shirt Variants Finished/Shirt White .png"
+      },
+      {
+        "id": 58,
+        "color": "Shirt Yellow.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Shirt Yellow.png"
+      },
+      {
+        "id": 59,
+        "color": "Sweater black.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Sweater black.png"
+      },
+      {
+        "id": 60,
+        "color": "Sweater Green Chain.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Sweater Green Chain.png"
+      },
+      {
+        "id": 61,
+        "color": "Sweater Orange.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Sweater Orange.png"
+      },
+      {
+        "id": 62,
+        "color": "Sweater pink.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Sweater pink.png"
+      },
+      {
+        "id": 63,
+        "color": "Tanktop orange.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Tanktop orange.png"
+      },
+      {
+        "id": 64,
+        "color": "Tanktop pink.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Tanktop pink.png"
+      },
+      {
+        "id": 65,
+        "color": "Tanktop sailor black.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Tanktop sailor black.png"
+      },
+      {
+        "id": 66,
+        "color": "Tanktop sailor blue.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Tanktop sailor blue.png"
+      },
+      {
+        "id": 67,
+        "color": "Tanktop sailor red.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Tanktop sailor red.png"
+      },
+      {
+        "id": 68,
+        "color": "Tanktop tattoo.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Tanktop tattoo.png"
+      },
+      {
+        "id": 69,
+        "color": "Tanktop White.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Tanktop White.png"
+      },
+      {
+        "id": 70,
+        "color": "Tiger.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Tiger.png"
+      },
+      {
+        "id": 71,
+        "color": "Toga.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Toga.png"
+      },
+      {
+        "id": 72,
+        "color": "Tshirt blue.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Tshirt blue.png"
+      },
+      {
+        "id": 73,
+        "color": "Tshirt Green .png",
+        "url": "/resources/All Cat Shirt Variants Finished/Tshirt Green .png"
+      },
+      {
+        "id": 74,
+        "color": "Tshirt Metal.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Tshirt Metal.png"
+      },
+      {
+        "id": 75,
+        "color": "Tshirt Pink.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Tshirt Pink.png"
+      },
+      {
+        "id": 76,
+        "color": "Tshirt Red.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Tshirt Red.png"
+      },
+      {
+        "id": 77,
+        "color": "Tshirt white.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Tshirt white.png"
+      },
+      {
+        "id": 78,
+        "color": "Tshirt Yellow.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Tshirt Yellow.png"
+      },
+      {
+        "id": 79,
+        "color": "Viking brown.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Viking brown.png"
+      },
+      {
+        "id": 80,
+        "color": "Viking navy.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Viking navy.png"
+      },
+      {
+        "id": 81,
+        "color": "Wetsuit.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Wetsuit.png"
+      },
+      {
+        "id": 82,
+        "color": "Winter Blue.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Winter Blue.png"
+      },
+      {
+        "id": 83,
+        "color": "Winter red.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Winter red.png"
+      },
+      {
+        "id": 84,
+        "color": "Work blue.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Work blue.png"
+      },
+      {
+        "id": 85,
+        "color": "Work Red.png",
+        "url": "/resources/All Cat Shirt Variants Finished/Work Red.png"
+      }],
+    "homes": [
+        {
+            "id": 0,
+            "color": "Classy 1.png",
+            "url": "/resources/Background Varients Finished/Classy 1.png"
+          },
+          {
+            "id": 1,
+            "color": "Classy 2.png",
+            "url": "/resources/Background Varients Finished/Classy 2.png"
+          },
+          {
+            "id": 2,
+            "color": "cool 1.png",
+            "url": "/resources/Background Varients Finished/cool 1.png"
+          },
+          {
+            "id": 3,
+            "color": "Cool 2.png",
+            "url": "/resources/Background Varients Finished/Cool 2.png"
+          },
+          {
+            "id": 4,
+            "color": "Exotic 1.png",
+            "url": "/resources/Background Varients Finished/Exotic 1.png"
+          },
+          {
+            "id": 5,
+            "color": "Exotic 2.png",
+            "url": "/resources/Background Varients Finished/Exotic 2.png"
+          },
+          {
+            "id": 6,
+            "color": "wild 1.png",
+            "url": "/resources/Background Varients Finished/wild 1.png"
+          },
+          {
+            "id": 7,
+            "color": "wild 2.png",
+            "url": "/resources/Background Varients Finished/wild 2.png"
+          },
+        {
+        "id": 8,
+        "color": "Alien",
+        "url": "/resources/Special Cats FInished/Alien.png"
+        },
+        {
+        "id": 9,
+        "color": "Angel",
+        "url": "/resources/Special Cats FInished/Angel.png"
+        },
+        {
+        "id": 10,
+        "color": "Celestial",
+        "url": "/resources/Special Cats FInished/Celestial.png"
+        },
+        {
+        "id": 11,
+        "color": "Demon",
+        "url": "/resources/Special Cats FInished/Demon.png"
+        },
+        {
+        "id": 12,
+        "color": "Lucky",
+        "url": "/resources/Special Cats FInished/Lucky.png"
+        },
+        {
+        "id": 13,
+        "color": "Robot",
+        "url": "/resources/Special Cats FInished/Robot.png"
+        },
+        {
+        "id": 14,
+        "color": "Skeleton",
+        "url": "/resources/Special Cats FInished/Skeleton.png"
+        },
+        {
+        "id": 15,
+        "color": "Special Zombie",
+        "url": "/resources/Special Cats FInished/Special Zombie.png"
+        },
+        {
+        "id": 16,
+        "color": "Upsidedown",
+        "url": "/resources/Special Cats FInished/Upsidedown.png"
+        }
+    ]
+}

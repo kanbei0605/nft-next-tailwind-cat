@@ -1,0 +1,14 @@
+@import 'tailwindcss';
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import './globals.css';
+
+/* Components */
+@import './components/Banner.css';
+
+/* Site fonts */
+@import './sitefont.css';
+
+
+/* Custom */

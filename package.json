@@ -1,0 +1,55 @@
+{
+  "name": "nft-next-tailwind-cat",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build:tailwind": "postcss ./styles/index.css -o ./styles/tailwind.css --env production",
+    "watch:tailwind": "postcss ./styles/index.css -o ./styles/tailwind.css -w",
+    "dev": "next dev -p 8080",
+    "build": "next build",
+    "start": "npm-run-all -p watch:tailwind dev",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@pinata/sdk": "^1.1.23",
+    "api": "^3.4.2",
+    "axios": "^0.22.0",
+    "babel-runtime": "^6.26.0",
+    "canvas": "^2.8.0",
+    "ipfs-api": "^26.1.2",
+    "ipfs-http-client": "^53.0.1",
+    "merge-images-v2": "^2.0.1",
+    "next": "^11.1.2",
+    "next-redux-wrapper": "^7.0.5",
+    "react": "^17.0.2",
+    "react-copy-to-clipboard": "^5.0.4",
+    "react-dom": "17.0.2",
+    "react-modal": "^3.14.3",
+    "react-redux": "^7.2.5",
+    "react-scroll": "^1.8.4",
+    "react-slick": "^0.28.1",
+    "react-tooltip": "^4.2.21",
+    "react-typing-animation": "^1.6.2",
+    "redux-thunk": "^2.3.0",
+    "slick-carousel": "^1.8.1",
+    "uuid": "^8.3.2",
+    "web3": "^1.6.0"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "5.15.3",
+    "autoprefixer": "^10.3.7",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2",
+    "npm-run-all": "^4.1.5",
+    "postcss": "^8.3.9",
+    "postcss-cli": "^9.0.1",
+    "postcss-import": "^14.0.2",
+    "tailwindcss": "^2.2.16"
+  },
+  "exports": {
+    ".": "./index.js",
+    "./jsx-dev-runtime": "./jsx-dev-runtime.js",
+    "./jsx-runtime": "./jsx-runtime.js",
+    "./": "./"
+  }
+}
